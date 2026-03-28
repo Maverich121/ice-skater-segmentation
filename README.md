@@ -14,9 +14,6 @@ The script employs several image processing and machine learning techniques to a
 
 These methods work together to handle complex scenes with varying lighting and backgrounds, producing a clean binary mask.
 
-
-
-![Example 1](examples/biellman_spin.png)
 ![Example 2](examples/sit_spin.png)
 ![Example 2](examples/y_spin.png)
 
