@@ -15,6 +15,11 @@ The script employs several image processing and machine learning techniques to a
 These methods work together to handle complex scenes with varying lighting and backgrounds, producing a clean binary mask.
 
 
+
+![Example 1](examples/biellman_spin.png)
+![Example 2](examples/sit_spin.png)
+![Example 2](examples/y_spin.png)
+
 ## Usage
 
 Run the script from the command line in your terminal:
@@ -23,8 +28,6 @@ Run the script from the command line in your terminal:
 python skater_segment_final.py <image_path> [output_path] [n_clusters]
 ```
 
-![Example 1](examples/biellman_spin.png)
-![Example 2](examples/y_spin.png)
 
 ### Arguments:
 - `<image_path>`: Path to the input image file (required). Supports common formats like JPG, PNG.
