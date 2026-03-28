@@ -23,6 +23,9 @@ Run the script from the command line in your terminal:
 python skater_segment_final.py <image_path> [output_path] [n_clusters]
 ```
 
+![Example 1](examples/biellman_spin.png)
+![Example 2](examples/y_spin.png)
+
 ### Arguments:
 - `<image_path>`: Path to the input image file (required). Supports common formats like JPG, PNG.
 - `[output_path]`: Path to save the segmented silhouette image (optional). Defaults to `silhouette.png` if not provided.
